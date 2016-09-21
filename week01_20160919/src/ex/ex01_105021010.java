@@ -6,7 +6,7 @@ package ex;
  */
 
 import java.util.Scanner;
-public class ex01_1050210XX {
+public class ex01_105021010 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
