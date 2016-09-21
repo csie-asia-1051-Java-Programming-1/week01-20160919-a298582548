@@ -12,8 +12,7 @@ public class ex01_1050210XX {
 		// TODO Auto-generated method stub
 		Scanner scn =new Scanner(System.in);
 		int a =scn.nextInt();
-		System.out.print((a/(9.0/5.0)-32));
+		System.out.print(((a-32)/(9.0/5.0)));
        
 	}
-
 }

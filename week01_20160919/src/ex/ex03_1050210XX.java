@@ -10,9 +10,9 @@ public class ex03_1050210XX {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner scn =new Scanner(System.in);
-		int a=scn.nextInt();
+	    int a=scn.nextInt();
 		int b=scn.nextInt();
-		System.out.print(Math.pow(a, b));
+		System.out.print(Math.pow(a,b));
 		
 
 	}
